@@ -1,1 +1,1 @@
-# Telecome Churn prediction
+# Telecom Churn prediction
